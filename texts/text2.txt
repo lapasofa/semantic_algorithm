@@ -1,0 +1,60 @@
+confirmation Request for Crypto Products
+A number of pieces of infrastructure and middleware must be in place before cryptocurrency applications begin to impact users at scale. We’ve invested in a number of those pieces (stablecoin projects like MakerDAO and Basis, scalability solutions like bloXroute, decentralized exchange protocols like dYdX, and marketplaces like Vest, OpenSea, and Harbor) and will continue to do so.
+
+Once the building blocks are in place, products on top of the building blocks are necessary to bring hundreds of millions of people to cryptocurrencies — that’s when things get really interesting. While it may may be early for application-layer products at scale and there’s still lots of work to be done on the infrastructure and middleware layers, we’re constantly thinking about new consumer products that could emerge and thought we’d share some of our ideas.
+
+Here are five categories of products and specific product ideas within those categories that we’re especially excited about:
+
+
+Crypto finance
+The most widely used consumer products in the cryptocurrency space thus far are traditional financial products re-imagined like crypto brokerages (Coinbase), exchanges (Binance, GDAX), and crowdfunding platforms (Ethereum). There are many other types of financial products that we believe will soon emerge, uniquely enabled by blockchain-based smart contracts that can remove the need for a middle man in a variety of of services that have historically required one.
+
+Product idea:
+
+A insurance product for cryptocurrency-wallets
+Purpose: Protect users from the loss or theft of their cryptocurrency (risk aversion is a huge hurdle to broader adoption today).
+
+Product: Traditional insurance companies are often reluctant to offer new types of insurance products such as cryptocurrency hot-wallets. But what if a smart-contract based insurance pool was able to accumulate capital from people who could earn a premium for staking their capital to the pool? This could enable a new type of insurance product for consumers store their funds in hot-wallets, which could make people much more comfortable using cryptocurrencies. Note: An identity layer may be necessary for this product to be possible (see below)
+
+Crypto goods
+Cryptokitties just began to scratch the surface of what can be built when you combine true-ownership of digital goods, creative content and new game dynamics. We think the design space is wide open for new projects that combine those three things.
+
+Product idea:
+
+A NFT-based AR game
+Purpose: Create an open-ecosystem where users are empowered to own the game they are playing and entrepreneurs are empowered to build new experiences on top of the game.
+
+Product: A mobile-based AR experience (e.g. PokemonGo, powered by the Niantic platform) where users collect NFTs in the physical world that they can combine together to battle (a reimagined iteration of Etherbots). AR gives social context for NFTs, which is something still lacking for most NFT-based projects currently.
+
+Work marketplaces
+Web 2.0 marketplaces like Uber and Airbnb opened up earning opportunities locally, and web 3.0 marketplaces have the potential to open up earning opportunities for new people globally.
+
+Product idea:
+
+Staking-as-a-service marketplace
+Purpose: Empower new people to earn and create more efficient labor markets globally (leveraging existing work-token based systems like Ethereum and Filecoin or other blockchain-based systems).
+
+Product: Platform that makes it easy for people who have funds but do not have time and skills to connect with people who have time and skills but not funds (Vest is a great team working on this and Earn.com is a great product that serves a similar purpose, but it’s a big idea that could take shape in many different iterations).
+
+Prediction markets
+Prediction markets have the potential to unlock a huge amount of new information in the world and we’re excited about new applications emerging on top of them.
+
+Product idea:
+
+A prediction-market based social network
+Purpose: Build your social reputation by putting your money where your mouth is and follow smart people who are doing the same. This could provide a healthy change from Twitter, which has become a platform for many people to share strong opinions without skin in the game.
+
+Product: A Twitter-like feed of prediction markets, where individuals share the markets they create and participate in (enabled by upcoming prediction market platforms coming to market like Augur).
+
+Identity
+Many crypto products need an identity solution to function properly. There have been many attempts at decentralized identity solutions like Onename, uPort and the ERC725 standard but none of them have caught on in a significant way yet. Perhaps a a new identity app is necessary for an identity solution to gain widespread adoption.
+
+Product idea:
+
+An ENS-based verified identity solution
+Purpose: Give users ownership of their identity on the web and allow them to interact in various governance and economic related applications that they otherwise would not be able to
+
+Product: A service built on top of ENS that makes it easy for users to buy an ENS domain, link their true identity to that domain, and earn tokens (like airdrops) or access some new services (like crypto insurance) as a result.
+
+So What?
+It’s possible that the most widely used products in 10 years will be ideas no one has even thought of yet, but we think imagining what future applications could look like is a valuable exercise that could help inspire some really important products to be built. If you’re also thinking about any of these ideas, we’d love to chat with you!

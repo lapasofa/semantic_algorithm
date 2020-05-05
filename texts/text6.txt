@@ -1,0 +1,73 @@
+Dear UChain Community,
+
+We’re happy to announce that the KYC results for the presale whitelist are in!
+
+Our team has built a User Portal on https://uchain.world, where each of you can login using the data submitted in the whitelisting, and check your KYC status.
+
+
+If your dashboard is showing the picture above, congratulations, you can take part in the presale and will be added to the crowdsale whitelist as well!
+
+Our KYC provider has not forwarded any individual explanations on the KYC status, with all submissions to the KYC process being final and no changes being allowed. We’re happy to report that we’ve experienced only a small number of KYC rejections and we will not be re-opening the Presale Whitelist.
+
+We would like to use this opportunity to share some more info on the presale contribution mechanisms that you have been asking about:
+
+What time will the Presale start and where will I find the address?
+Our Public Presale will take place on June 20th at 10AM UTC+1 (BST)
+
+Once the presale starts, we will post our smart contract address on the UChain User Portal, as well as our Telegram Announcement Channel.
+
+The same contract address will be used for both presale rounds.
+
+Please beware of scammers and don’t trust any link posted outside the User Portal or the Announcement Channel!
+
+Min/Max Contribution
+1st Round;
+
+Min Cap — 2ETH
+
+Max Cap — 2ETH
+
+2nd Round;
+
+Min Cap — 0.5ETH
+
+Max Cap — 5ETH
+
+Supported wallets
+Our placeholder token is ERC20, so you can participate by sending a transaction to the smart contract using any ERC20 wallet.
+
+PLEASE DO NOT SEND FROM ANY EXCHANGE WALLET. ANY FUNDS RECEIVED FROM EXCHANGE WALLETS ARE AT HIGH RISK OF BEING LOST.
+
+Smart Contract Details
+Only ETH addresses that have been whitelisted and passed KYC will be allowed to take part in the presale. Any and all transactions from a non-whitelisted address will be rejected by our smart contract!
+
+We recommend using at least 200,000 Gas Limit when sending your contribution in order for the smart contract to execute successfully.
+
+In order to avoid a gas war, a cap of 50 Gwei and 250,000 Gas Limit has been set -any transaction above those caps will be rejected by our smart contract!
+
+In the 1st round (June 20th / Day One), the min/max contribution cap is set to 2ETH. Any amount different than 2ETH will be rejected by our smart contract on Day One!
+
+In the 2nd Round (June 21st /Day Two), the minimum contribution will be 0.5ETH and the maximum contribution 5ETH. Any amount lesser than 0.5ETH or greater than 5ETH will be rejected by our smart contract on Day Two!
+
+The Presale smart contract will reject any and all transactions upon reaching the 8000ETH Presale hardcap. With Day 2 only taking place if the hardcap is not reached on Day One!
+
+Timestamps
+The smart contract is set to accept transactions from the first block with a timestamp later than June 20th, 10AM UTC+1.
+
+Likewise, it is set to raise/lower the caps for round two for the first block with a timestamp later than June 21st, 10:30AM UTC+1. (only in case the hardcap hasn’t been reached by that time)
+
+On June 21st, after 10:00AM UTC+1, until the Day Two starts at 10:30AM UTC+1, all transactions will be rejected. This 30-minute space has been introduced to clearly separate the two contribution stages and give you time to prepare your Day Two contributions.
+
+Day Two Contributions
+In the case that our hardcap is not reached on Day One, all whitelisted addresses can contribute on Day Two, regardless of their contribution on Day One.
+
+Token Distribution/Lock
+The tokens will be visible in your wallet as soon as you contribute to the smart contract. However, as announced earlier, they will remain locked, i.e. not transferable, until around one month after the Crowdsale concludes (subject to change).
+
+Presale Bonus Tokens
+The 15% bonus tokens will remain locked for 3 months from the token sale and will be made transferable on October 12th.
+
+Crowdsale Details/Whitelist
+As said before, all Presale Whitelisted users that passed KYC will automatically be added to the Crowdsale Whitelist, which is expected to take place in July. More details on the Crowdsale are to be announced after the Presale has finished.
+
+As we near our presale, we’re excepting an increase in scammer activity, please stay safe and remember that the only communication channels used will be our webpage and the telegram announcement channel.

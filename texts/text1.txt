@@ -1,0 +1,104 @@
+Dear UChain Community,
+
+Since officially launching two weeks ago, our project and team has experienced overwhelming support from the community. We would like to take this opportunity to thank every single person who have helped us grow and spread the word through Telegram, Twitter, Reddit and various other outlets.
+
+We will open the Whitelist for our Public Presale within the next week, and this article will serve as a way to answer some questions that you may wish to know.
+
+As always, please feel free to join our official Telegram channel (t.me/UChainEcosystem), where our admins are always on standby to answer any questions you may have.
+
+-PUBLIC PRESALE-
+
+The allocation set aside for the Public Presale is 8000 ETH.
+
+1ETH:5000UCN + 15% bonus = 1ETH:5750 UCN
+
+(15% bonus will be locked for 3 months)
+
+Total allocated tokens for Presale = 46,000,000 UCN
+
+(6,000,000UCN unlocked after 3 months)
+
+When will the whitelisting begin?
+June 10th?—?10AM BST (UTC+1)
+
+How long will the whitelist stay open for?
+The whitelist will remain open for 3 days, ending on 13th June at 10AM BST (UTC+1) or when we fill the maximum amount of applicants, whichever occurs first.
+
+Is there a cap on the amount of people who can whitelist?
+We will cap our Whitelist applications at 8,000.
+
+How will I be able to register for the whitelist?
+We will provide a link on our official website (https://uchain.world) for you to submit your KYC information, successful applicants will then be able to login using their personal information once we have completed our checks.
+
+What will we need to submit for KYC?
+We will require the following;
+
+First Name
+Last Name
+Gender
+Email address
+Date of Birth
+Nationality
+Photo copy of Passport / National ID
+Selfie with Passport / National ID and plain white paper with the word ‘UChain’ and the current date
+ETH wallet address
+What countries are prohibited from entering?
+After consulting our lawyers, our team regrets to inform the community that citizens and residents of the United States and the People’s Republic of China will not be allowed to participate in any stage of our token sale. (Citizens of Hong Kong and Macau, however, will be allowed to participate).#
+
+How will you structure the Presale?
+We will structure the Presale into a possible two rounds.
+
+1st Round?—?We will launch our Presale for all Whitelisted members with a Min/Max cap of 2ETH.
+
+2nd Round —If any UCN is left over after Day 1, we will lower our Min cap and raise our Max cap to give a chance for everyone who was successful in the Whitelist to contribute.
+
+When will the Presale start?
+The Presale will begin at the following times;
+
+1st Round?—?June 20th at 10am BST(UTC+1)
+
+2nd Round?—?June 21st at 10:30am BST (UTC+1), ending immediately upon reaching hardcap.
+
+What are the individual caps?
+1st Round;
+
+Min Cap?—?2ETH
+
+Max Cap?—?2ETH
+
+2nd Round;
+
+Min Cap?—?0.5ETH
+
+Max Cap?—?5ETH
+
+Is your Presale going to be first come first serve?
+As our Presale hardcap is set to 8,000ETH with 8,000 people being able to participate, there will be an element of first come first serve. We will be setting GAS / GWEI caps to prevent people from getting an unfair advantage.
+
+Can I contribute again on Day 2 if I already contributed on Day 1?
+Yes. Whitelisted members who managed to contribute on Day 1, will also be able to contribute on Day 2.
+
+What are the Gas / Gwei caps?
+We will cap the Gas at 250,000 and Gwei at 50. Our smart contract will automatically reject payments that exceed these caps.
+
+What happens if I send my funds in after the hardcap has been reached?
+Any funds received once our hardcap has been reached will be refunded after the Presale has finished.
+
+Where will I find the ETH contribution address?
+Our contract address will show up in your user portal once the Presale begins.
+
+When are the tokens going to be distributed?
+We plan to distribute tokens around one month after the crowdsale concludes, however, this is subject to change.
+
+When would I receive my bonus tokens?
+The bonus tokens will be locked for 3 months. The lockup will start from the day of token distribution.
+
+If I’m successful in the Presale whitelist, will I be automatically entered into the Crowdsale?
+Yes. All successful applicants for the Presale whitelist will automatically be entered into the Crowdsale, that is due to take place in July.
+
+Again, If you feel like your question has not been answered in this article, please feel free to reach out to our community management team following the links below!
+
+We hope you stick around, in the coming months we will be uploading a lot more news and progress with the UChain development, including new partnerships, new team members, and general work on the Ecosystem that is ongoing.
+
+Thanks again for all your support thus far!
+
